@@ -3,4 +3,6 @@ trigger your mantra, fetch, and usd rop render when your CPU is low use. This is
 
 make one self-tool and past this python script into the python tab.
 
+make sure to install psutil using "pip install psutil" in terminal 
+
 
